@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f206e1d.css",
+    "main.js": "/static/js/main.48f66a15.js",
+    "static/js/787.dee92169.chunk.js": "/static/js/787.dee92169.chunk.js",
+    "static/media/aashir.png": "/static/media/aashir.61a8a76f768b8d9ed222.png",
+    "static/media/boating-in-meghalaya.webp": "/static/media/boating-in-meghalaya.ce13730936be1480da50.webp",
+    "static/media/3.jpg": "/static/media/3.0edfa04046c4b56bb8e1.jpg",
+    "static/media/2.jpg": "/static/media/2.80a9375b614b53403e1b.jpg",
+    "static/media/1.jpg": "/static/media/1.7bdae30018a160ed2411.jpg",
+    "static/media/trip.webp": "/static/media/trip.f83883df9204ec7fc694.webp",
+    "static/media/cta-image.svg": "/static/media/cta-image.969ce14d813df6c21c4b671371c6efc7.svg",
+    "static/media/jeep.png": "/static/media/jeep.2e92eae35296e62390c5.png",
+    "static/media/hiking.png": "/static/media/hiking.39025bb4b15b795e9426.png",
+    "static/media/motorcycle.png": "/static/media/motorcycle.f525b1df056e38cbfee0.png",
+    "static/media/vendors.svg": "/static/media/vendors.2bd88947058574db398181e678700298.svg",
+    "static/media/customised-trips.svg": "/static/media/customised-trips.f617735fd5e7e0b13f2e608608a9d06a.svg",
+    "static/media/weekend-trips.svg": "/static/media/weekend-trips.ae54e043f18e9c42187604d45a88c29d.svg",
+    "static/media/transportation.svg": "/static/media/transportation.1bbe94b319c16da37bb21601bdc3ac90.svg",
+    "static/media/captains.svg": "/static/media/captains.b4ba1d138eeb766547a8c755e83e6cbf.svg",
+    "index.html": "/index.html",
+    "static/media/backpacking-trips.svg": "/static/media/backpacking-trips.d14e819d77c52f6c4f8f6f9d2ef00edd.svg",
+    "main.6f206e1d.css.map": "/static/css/main.6f206e1d.css.map",
+    "main.48f66a15.js.map": "/static/js/main.48f66a15.js.map",
+    "787.dee92169.chunk.js.map": "/static/js/787.dee92169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f206e1d.css",
+    "static/js/main.48f66a15.js"
+  ]
+}
